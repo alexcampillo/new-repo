@@ -1,6 +1,6 @@
 new-repo
 ========
 
-##This was created by Alex for github learning pourposes.
+##This was created by Alex
 
 github demo

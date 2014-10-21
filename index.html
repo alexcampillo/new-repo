@@ -6,7 +6,7 @@ title: Main Page
                     <header>
                         <h1>Home</h1>
                         {% for page in site.pages %}
-                            <p><a href="{{page.url}}">{{page.title}}</a></p>
+                            <p><a href="{{site.url}}{{page.url}}">{{page.title}}</a></p>
                         {% endfor %}
                     </header>
                     <section>

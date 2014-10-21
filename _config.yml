@@ -1,2 +1,4 @@
-baseurl: http://alexcampillo.github.io/new-repo
 title: My CMS site
+url: "http://alexcampillo.github.io/new-repo"
+baseurl: "/new-repo/"
+permalink: pretty

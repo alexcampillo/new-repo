@@ -1,4 +1,4 @@
 title: My CMS site
-url: "http://alexcampillo.github.io/new-repo"
+url: "http://0.0.0.0:4000/new-repo"
 baseurl: "/new-repo/"
 permalink: pretty
